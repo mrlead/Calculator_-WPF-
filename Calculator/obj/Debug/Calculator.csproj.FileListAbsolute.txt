@@ -1,0 +1,14 @@
+c:\users\krend\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\krend\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+c:\users\krend\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\App.g.cs
+c:\users\krend\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\MainWindow.baml
+c:\users\krend\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\krend\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\NEO.exe.config
+C:\Users\krend\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\NEO.exe
+C:\Users\krend\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\NEO.pdb
+C:\Users\krend\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\NEO_MarkupCompile.cache
+C:\Users\krend\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\NEO_MarkupCompile.lref
+C:\Users\krend\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\NEO.g.resources
+C:\Users\krend\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\NEO.Properties.Resources.resources
+C:\Users\krend\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\NEO.exe
+C:\Users\krend\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\NEO.pdb
